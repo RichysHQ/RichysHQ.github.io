@@ -38001,6 +38001,8 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
         }
 
         /** common-rules **/
@@ -38117,6 +38119,11 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        }
+        .u-body
+        {
+        background-image: linear-gradient(45deg, #9a9dff, #cb66ff);
+        background-attachment: fixed;
         }
         /** common-rules **/
 
