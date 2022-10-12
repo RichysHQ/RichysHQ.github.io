@@ -139,7 +139,7 @@
   font-size: 0.875rem;
   letter-spacing: 2px;
   background-image: none;
-  border-style: none none solid;
+  border-style: solid;
   margin: 20px auto 0 0;
   padding: 0;
 }
@@ -489,7 +489,7 @@
 }
 
 .u-section-4 .u-icon-6 {
-  height: 148px;
+  height: 143px;
   width: 148px;
   margin: 45px auto 0;
 }
